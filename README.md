@@ -3,7 +3,7 @@
 
 ## _render方法
 
-使用了underscore的template方法
+使用了underscore的template方法  
 模板：
 ```html
 <script id="_template" type="text/_template">
